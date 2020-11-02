@@ -1,0 +1,143 @@
+.chat{
+    width:100%;
+    height:50vw;
+    border:1px solid black;
+    background-color: whitesmoke ;
+
+}
+.conversation{
+    border:1px solid Black;
+    width:100%;
+    height:50vw;
+    
+}
+.profil{
+    border:1px solid black;
+    width:100%;
+    height:50vw;
+    background-color:whitesmoke;
+}
+.espacement{
+    width:100%;
+    border:1px solid Black;
+}
+.taille{
+    height:18.6%;
+}
+.taille2{
+    height:7%;
+}
+.taille3{
+    height:83%;
+}
+.taille4{
+    height:10%;
+}
+.taille5{
+    height:40%;
+}
+.taille6{
+    height:20%;
+}
+.taille7{
+    height:33%;
+}
+    .linear-gradient {
+        background: linear-gradient(#fcb738, rgba(249, 185, 48, 0.25));
+    }
+.ecriture{
+    background-color:white;
+}
+
+.rayure{
+    background:
+    repeating-linear-gradient(-45deg, transparent, transparent 5px,
+    5px, rgba(249, 169, 48, 0.25) 25px);
+    
+}
+
+.blanc{
+    background-color:whitesmoke;
+}
+.orange{
+    background-color:#fcb738;
+}
+.expediteur{
+    text-align:center;
+    vertical-align: middle;
+    color:white;
+    border-radius: 18px 18px 0px 18px;
+    margin-left:auto;
+    display:block;
+    background: #fcb738;
+    padding-bottom:2%;
+    padding-top:2%;
+}
+.receveur{
+    text-align:center;
+    vertical-align: middle;
+    color:white;
+    border-radius: 18px 18px 18px 0px;
+    margin-right:auto;
+    display:block;
+    background: grey;
+    padding-bottom:2%;
+    padding-top:2%;
+}
+.rond{
+    width:150px;
+    clip-path:ellipse(50% 50%);
+    display:block;
+    vertical-align:middle;
+    margin:auto;
+    margin-top:10%;
+}
+img{
+    display:block;
+    vertical-align:middle;
+    margin-left:30%;
+    margin-top:20%;
+    width:50%;
+    height:50%;
+}
+.img2{
+    display:block;
+    vertical-align:middle;
+    margin-left:25%;
+    margin-top:-10%;
+    margin-bottom:-15%;
+    padding:15%;
+}
+.logo{
+    display:block;
+    vertical-align:middle;
+    margin-left:0%;
+    margin-top:-17%;
+    margin-bottom:-30%;
+    margin-left:5%;
+    padding:0%;
+    width:100%;
+}
+.texte{
+    font-family:Book Antiqua;
+    text-align: center;
+    vertical-align:middle;
+}
+.underline{
+    text-decoration:underline;
+}
+.texte2{
+    font-family:Book Antiqua;
+    text-align: center;
+    vertical-align:middle;
+    text-transform: uppercase;
+    padding-top:1%;
+    font-weight:bold;
+}
+input{
+    width:1071px;
+    height:100%;
+    margin-left:-1.4%;
+    padding-left:1%;
+    font-size:17px;
+}
